@@ -126,5 +126,4 @@ Embedded Systems & Core C Developer
 #EmbeddedLinux #SystemCalls #CoreC
 #Emertxe #TechPortfolio
 
-- Prepare **MiniShell interview explanations (very common questions)**
-```
+
